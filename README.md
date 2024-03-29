@@ -6,8 +6,8 @@
 
 # Запуск и функционал 
 Чтобы запустить игру нужно прописать в терминале: 
-1) `git clone https://github.com/Ameba108/ShipGame `
-2) `cd ShipGame`
+1) `git clone https://github.com/Ameba108/SpaceShipGame `
+2) `cd SpaceShipGame`
 3) `go run src/main/main.go` - запуск игры
    
 Управление игры очень легкое:
